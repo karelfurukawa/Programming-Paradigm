@@ -1,3 +1,5 @@
+{-Functional Progaramming: making map, foldl, foldr, filter in Haskell-}
+
 my_map :: (a -> b) -> [a] -> [b]
 my_map p l = 
   if length l == 0 then []
