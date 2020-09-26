@@ -1,3 +1,4 @@
+{-Functional Programming: making functions in haskell-}
 
 {- Easy functions -}
 cube::Int->Int
